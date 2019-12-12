@@ -17,7 +17,7 @@ def load_mgr_data():
 def plot_reach_trajectories(df):
     import numpy as np
     import matplotlib
-    #matplotlib.use('TkAgg')
+    # matplotlib.use('TkAgg')
     import matplotlib.pyplot as plt
 
     # Get unique targets

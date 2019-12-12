@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2dc6b9a7-1017-4dec-beae-4a9e48ab0cc2" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="2dc6b9a7-1017-4dec-beae-4a9e48ab0cc2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural_analysis.py" beforeDir="false" afterPath="$PROJECT_DIR$/neural_analysis.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple_ffnn/results/InitialPrediction.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/simple_ffnn/results/InitialPrediction.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple_ffnn/results/Simulated Data.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/simple_ffnn/results/Simulated Data.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple_ffnn/results/TrainedPrediction.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/simple_ffnn/results/TrainedPrediction.pdf" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,23 +20,20 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Qbgf2zEnhLc5ZVXUrcuHK6E9cz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Python.feed_forward_network_example">
+  <component name="RunManager" selected="Python.neural_analysis">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="decoding" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -95,10 +97,44 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="neural_analysis" type="PythonConfigurationType" factoryName="Python">
+      <module name="decoding" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/anaconda3/envs/analysis/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/neural_analysis.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.load_data" />
+      <item itemvalue="Python.neural_analysis" />
       <item itemvalue="Python.feed_forward_network_example" />
     </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -112,6 +148,29 @@
       <updated>1568044809146</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="781" y="370" key="SettingsEditor" timestamp="1576163886527">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="781" y="370" key="SettingsEditor/-1680.263.1680.1027/0.23.2560.1417@0.23.2560.1417" timestamp="1576163886527" />
+    <state x="957" y="563" key="com.intellij.ide.util.TipDialog" timestamp="1576163818904">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="957" y="563" key="com.intellij.ide.util.TipDialog/-1680.263.1680.1027/0.23.2560.1417@0.23.2560.1417" timestamp="1576163818904" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
