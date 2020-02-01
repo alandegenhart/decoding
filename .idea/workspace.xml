@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2dc6b9a7-1017-4dec-beae-4a9e48ab0cc2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/neural_analysis_test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/plottools.py" beforeDir="false" afterPath="$PROJECT_DIR$/modules/plottools.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/neural_analysis.py" beforeDir="false" afterPath="$PROJECT_DIR$/neural_analysis.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/simple_ffnn/results/InitialPrediction.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/simple_ffnn/results/InitialPrediction.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/simple_ffnn/results/Simulated Data.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/simple_ffnn/results/Simulated Data.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/simple_ffnn/results/TrainedPrediction.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/simple_ffnn/results/TrainedPrediction.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/ReachTrajectories.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/results/ReachTrajectories.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/SpeedProfile.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/results/SpeedProfile.pdf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +32,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunManager" selected="Python.neural_analysis">
@@ -167,10 +169,10 @@
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
     <state x="781" y="370" key="SettingsEditor/-1680.263.1680.1027/0.23.2560.1417@0.23.2560.1417" timestamp="1576163886527" />
-    <state x="957" y="563" key="com.intellij.ide.util.TipDialog" timestamp="1576163818904">
+    <state x="957" y="563" key="com.intellij.ide.util.TipDialog" timestamp="1576166964207">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state x="957" y="563" key="com.intellij.ide.util.TipDialog/-1680.263.1680.1027/0.23.2560.1417@0.23.2560.1417" timestamp="1576163818904" />
+    <state x="957" y="563" key="com.intellij.ide.util.TipDialog/-1680.263.1680.1027/0.23.2560.1417@0.23.2560.1417" timestamp="1576166964207" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
