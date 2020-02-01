@@ -29,3 +29,4 @@ tensorflow/results/FlipFlopRNN_ExampleTrainingData.pdf
 *.pdf
 tensorflow/.ipynb_checkpoints/RNN Flip-Flop Example-checkpoint.ipynb
 tensorflow/.ipynb_checkpoints/Kaggle_HousingPrices_Tensorflow-checkpoint.ipynb
+tensorflow/__pycache__/rnn_flipflop.cpython-37.pyc
