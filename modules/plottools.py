@@ -9,7 +9,8 @@ def create_subplot(
         ax_w = 300.0,  # plot width (pixels)
         ax_h = 300.0,  # plot height (pixels)
         ):
-
+    """Create a set of subplots with a custom-defined style.
+    """
     import numpy as np
     import matplotlib.pyplot as plt
 
@@ -18,7 +19,7 @@ def create_subplot(
     # running scripts from the command line. Setting the font types ensures that
     # any text that is generated can be edited.
     import matplotlib as mpl
-    mpl.use('PDF')
+    #mpl.use('PDF')
     mpl.rcParams['pdf.fonttype'] = 42
     mpl.rcParams['ps.fonttype'] = 42
 
@@ -43,4 +44,4 @@ def create_subplot(
             ax_hndl[-1].spines['top'].set_visible(False)
             ax_hndl[-1].spines['right'].set_visible(False)
 
-    return ax_hndl
+    return fh, ax_hndl

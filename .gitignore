@@ -27,3 +27,5 @@ tensorflow/results/FlipFlopRNN_PCA_3D.pdf
 tensorflow/results/FlipFlopRNN_PCA.pdf
 tensorflow/results/FlipFlopRNN_ExampleTrainingData.pdf
 *.pdf
+tensorflow/.ipynb_checkpoints/RNN Flip-Flop Example-checkpoint.ipynb
+tensorflow/.ipynb_checkpoints/Kaggle_HousingPrices_Tensorflow-checkpoint.ipynb
