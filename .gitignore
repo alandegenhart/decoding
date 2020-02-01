@@ -13,3 +13,16 @@ kaggle/house-prices-advanced-regression-techniques/__pycache__/housing.cpython-3
 kaggle/house-prices-advanced-regression-techniques/dev.env
 __pycache__/neural_analysis.cpython-37.pyc
 .idea/workspace.xml
+tensorflow/results/FlipFlopRNN_TrainingResults.pdf
+tensorflow/results/FlipFlopRNN_TrainingData.pdf
+tensorflow/results/FlipFlopRNN_Training.pdf
+tensorflow/results/FlipFlopRNN_TrainHistory.pdf
+tensorflow/results/FlipFlopRNN_TestData_NewData.pdf
+tensorflow/results/FlipFlopRNN_TestData_200seq.pdf
+tensorflow/results/FlipFlopRNN_TestData_100samp.pdf
+tensorflow/results/FlipFlopRNN_TestData.pdf
+tensorflow/results/FlipFlopRNN_Test.pdf
+tensorflow/results/FlipFlopRNN_PreTraining.pdf
+tensorflow/results/FlipFlopRNN_PCA_3D.pdf
+tensorflow/results/FlipFlopRNN_PCA.pdf
+tensorflow/results/FlipFlopRNN_ExampleTrainingData.pdf
