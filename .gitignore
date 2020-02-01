@@ -26,3 +26,4 @@ tensorflow/results/FlipFlopRNN_PreTraining.pdf
 tensorflow/results/FlipFlopRNN_PCA_3D.pdf
 tensorflow/results/FlipFlopRNN_PCA.pdf
 tensorflow/results/FlipFlopRNN_ExampleTrainingData.pdf
+*.pdf
