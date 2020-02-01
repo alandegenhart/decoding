@@ -1,0 +1,9 @@
+RNN flip-flop:
+  ✔ Look at (& plot) the eigenspectrum of the PCA representation @done (20-01-19 18:49)
+  ✔ Color-code latent state by output to see if there is a representation (use RGB representation?) @done (20-01-20 09:44)
+  ✔ Add regularization to the model and see if this changes the representation @done (20-01-19 18:49)
+  ☐ Move model training into subfunction
+  ☐ Setup way of specifying parameters (maybe use a class here?)
+  ☐ Saving of results -- this should create a new folder for each parameter
+  ☐ Try GRU, LSTM models
+  ☐ Create master function that runs the entire analysis
