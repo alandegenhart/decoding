@@ -301,6 +301,7 @@ def build_model(n_inputs, n_rnn=128, use_regularizer=False, reg_l=0.01):
             kernel_regularizer=reg,
             recurrent_regularizer=reg
             ),
+        tf.keras.layers.GaussianNoise(0.1),
         tf.keras.layers.Dense(n_inputs)
     ])
 
