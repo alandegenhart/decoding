@@ -148,3 +148,4 @@ To-do:
   means for each condition (with the exception of the variance term), so it
   *should* be fairly straightforward to modify this to use the canonical
   trajectories used in the simulated model.
+"""
